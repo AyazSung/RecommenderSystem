@@ -1,4 +1,5 @@
 # RecommenderSystem__
+Sunagatullin Ayaz, BS3- DS01, a.sunagatullin@innopolis.university
 
 To try model:
   * model_launch.py - script to test predictions and recommendations
